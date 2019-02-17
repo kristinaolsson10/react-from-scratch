@@ -6,5 +6,12 @@
   </head>
   <body>
     <div id="root"></div>
+    <div id="react-root"></div>
+    <script type="text/javascript">
+      const rootElement = document.getElementById("root");
+      const helloElement = document.createElement("div");
+      helloElement.textContent = "Hey there! I'm javascript."
+      rootElement.appendChild(helloElement);
+    </script>
   </body>
 </html>
