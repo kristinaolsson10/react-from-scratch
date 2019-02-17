@@ -5,6 +5,16 @@
     <title>React Basics</title>
   </head>
   <body>
+    
+    <!-- Root DOM element needed to append stuff to -->
     <div id="root"></div>
+
+    <!-- My javascript starts here! -->
+    <script type="text/javascript">
+      const rootElement = document.getElementById("root");
+      const helloDiv = document.createElement('div');
+      helloDiv.textContent = "Hello! I'm javascript!";
+      rootElement.appendChild(helloDiv);
+    </script>
   </body>
 </html>
