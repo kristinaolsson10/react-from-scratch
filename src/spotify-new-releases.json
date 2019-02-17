@@ -1,0 +1,924 @@
+{
+    "albums": [
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+              },
+              "href": "https://api.spotify.com/v1/artists/4kYSro6naA4h99UJvo89HB",
+              "id": "4kYSro6naA4h99UJvo89HB",
+              "name": "Cardi B",
+              "type": "artist",
+              "uri": "spotify:artist:4kYSro6naA4h99UJvo89HB"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+              },
+              "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+              "id": "0du5cEVh5yTK9QJze8zA0C",
+              "name": "Bruno Mars",
+              "type": "artist",
+              "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5a4sJJ3qjn6hqRsvm0Veso"
+          },
+          "href": "https://api.spotify.com/v1/albums/5a4sJJ3qjn6hqRsvm0Veso",
+          "id": "5a4sJJ3qjn6hqRsvm0Veso",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/8f7e36dd008010cc41082e16e0c211e46353ad3b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ecf5bb71932af61daecc12501def46cece5f44b9",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/a538aba8093c383199a6389bd0b0a1e08a7f6689",
+              "width": 64
+            }
+          ],
+          "name": "Please Me",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5a4sJJ3qjn6hqRsvm0Veso"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+              },
+              "href": "https://api.spotify.com/v1/artists/2KbikmQKGiUPR2ARs1h0sq",
+              "id": "2KbikmQKGiUPR2ARs1h0sq",
+              "name": "Gilli",
+              "type": "artist",
+              "uri": "spotify:artist:2KbikmQKGiUPR2ARs1h0sq"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
+              },
+              "href": "https://api.spotify.com/v1/artists/1YwMnnHvnG64fJxYSVwmN6",
+              "id": "1YwMnnHvnG64fJxYSVwmN6",
+              "name": "Branco",
+              "type": "artist",
+              "uri": "spotify:artist:1YwMnnHvnG64fJxYSVwmN6"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/65wvpWMrBE4JKq7UaGoRMZ"
+          },
+          "href": "https://api.spotify.com/v1/albums/65wvpWMrBE4JKq7UaGoRMZ",
+          "id": "65wvpWMrBE4JKq7UaGoRMZ",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/09f42182bf7248ad46ae523cd91ffb38897f7f14",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/a8adac33647e5a86d918d1d43bf892da2aac0e85",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/f053d85bf464880400a3a42f4aca33d426a3fae0",
+              "width": 64
+            }
+          ],
+          "name": "Planer",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:65wvpWMrBE4JKq7UaGoRMZ"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Bu9ocyPQWQRyk3kXDSNlv",
+              "id": "4Bu9ocyPQWQRyk3kXDSNlv",
+              "name": "Carmon",
+              "type": "artist",
+              "uri": "spotify:artist:4Bu9ocyPQWQRyk3kXDSNlv"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/6QtAFF9ED6SRM6wYklxPGj"
+          },
+          "href": "https://api.spotify.com/v1/albums/6QtAFF9ED6SRM6wYklxPGj",
+          "id": "6QtAFF9ED6SRM6wYklxPGj",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/30838971e50dee3c58e558fb6a4dff07825ccf25",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/4e9b8a57c93d42a83a4460b612760ca2b5210807",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/46b1070432ea65f6cfe8e4f09aab28a1b096fa1a",
+              "width": 64
+            }
+          ],
+          "name": "Bando/Fokus",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 2,
+          "type": "album",
+          "uri": "spotify:album:6QtAFF9ED6SRM6wYklxPGj"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+              },
+              "href": "https://api.spotify.com/v1/artists/2qxJFvFYMEDqd7ui6kSAcq",
+              "id": "2qxJFvFYMEDqd7ui6kSAcq",
+              "name": "Zedd",
+              "type": "artist",
+              "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+              },
+              "href": "https://api.spotify.com/v1/artists/6jJ0s89eD6GaHleKKya26X",
+              "id": "6jJ0s89eD6GaHleKKya26X",
+              "name": "Katy Perry",
+              "type": "artist",
+              "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7DMS5dzWQu7R3D59CKw4TA"
+          },
+          "href": "https://api.spotify.com/v1/albums/7DMS5dzWQu7R3D59CKw4TA",
+          "id": "7DMS5dzWQu7R3D59CKw4TA",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/7815f82d963e4384d7f13dfac98d87cd1b47315f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/44f890c3f589f4aca39fbf86f4316c87b49ba414",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/96e2bc0fa9e4a644d31c3e4dde66de41f50a92e6",
+              "width": 64
+            }
+          ],
+          "name": "365",
+          "release_date": "2019-02-14",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:7DMS5dzWQu7R3D59CKw4TA"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+              },
+              "href": "https://api.spotify.com/v1/artists/23fqKkggKUBHNkbKtXEls4",
+              "id": "23fqKkggKUBHNkbKtXEls4",
+              "name": "Kygo",
+              "type": "artist",
+              "uri": "spotify:artist:23fqKkggKUBHNkbKtXEls4"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5vZy4cohzmdhOUGCdsUNpt"
+          },
+          "href": "https://api.spotify.com/v1/albums/5vZy4cohzmdhOUGCdsUNpt",
+          "id": "5vZy4cohzmdhOUGCdsUNpt",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4f3e8bf85ca5a8f36631bc1564b3dae700632bad",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/260f40a3e22ced5cbb86d054691bc1c49430519e",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/400483b3945df50b010e9a20a3dd359b99078557",
+              "width": 64
+            }
+          ],
+          "name": "Think About You (feat. Valerie Broussard)",
+          "release_date": "2019-02-14",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5vZy4cohzmdhOUGCdsUNpt"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+              },
+              "href": "https://api.spotify.com/v1/artists/64M6ah0SkkRsnPGtGiRAbb",
+              "id": "64M6ah0SkkRsnPGtGiRAbb",
+              "name": "Bebe Rexha",
+              "type": "artist",
+              "uri": "spotify:artist:64M6ah0SkkRsnPGtGiRAbb"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5ljc69MQ6iwGcJ4SmHaAh5"
+          },
+          "href": "https://api.spotify.com/v1/albums/5ljc69MQ6iwGcJ4SmHaAh5",
+          "id": "5ljc69MQ6iwGcJ4SmHaAh5",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/4c926227b79f2e02bee7c72c55cc960080ee1726",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/7e2ecc0d31ace17bb6d14c058495ad682105bd99",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/7c831906270b0bfc37e3aec47a1f488040489b5d",
+              "width": 64
+            }
+          ],
+          "name": "Last Hurrah",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:5ljc69MQ6iwGcJ4SmHaAh5"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+              },
+              "href": "https://api.spotify.com/v1/artists/5tCPpDoXfTKy5yTongtDAT",
+              "id": "5tCPpDoXfTKy5yTongtDAT",
+              "name": "TooManyLeftHands",
+              "type": "artist",
+              "uri": "spotify:artist:5tCPpDoXfTKy5yTongtDAT"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/7p2aOXY5bfHyjujI3fCWTu"
+              },
+              "href": "https://api.spotify.com/v1/artists/7p2aOXY5bfHyjujI3fCWTu",
+              "id": "7p2aOXY5bfHyjujI3fCWTu",
+              "name": "Brandon Beal",
+              "type": "artist",
+              "uri": "spotify:artist:7p2aOXY5bfHyjujI3fCWTu"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/74LeiMmK8878amFtxM5v8I"
+          },
+          "href": "https://api.spotify.com/v1/albums/74LeiMmK8878amFtxM5v8I",
+          "id": "74LeiMmK8878amFtxM5v8I",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a58fbd64c0226c3a75ce8927d00cb4f56f6a0c46",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/323f7bbe207f243dae370e2b26f73148fa1770fb",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/0fa44cace7c3a116d806502d6f04b95b503f08d8",
+              "width": 64
+            }
+          ],
+          "name": "No Love",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:74LeiMmK8878amFtxM5v8I"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3VBjLrfRolCjRRPN5y5XIU"
+              },
+              "href": "https://api.spotify.com/v1/artists/3VBjLrfRolCjRRPN5y5XIU",
+              "id": "3VBjLrfRolCjRRPN5y5XIU",
+              "name": "Elias Boussnina",
+              "type": "artist",
+              "uri": "spotify:artist:3VBjLrfRolCjRRPN5y5XIU"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3oUAwebm0OzB7PdohqosPE"
+          },
+          "href": "https://api.spotify.com/v1/albums/3oUAwebm0OzB7PdohqosPE",
+          "id": "3oUAwebm0OzB7PdohqosPE",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/0c007faba9cdbc2aa6b1b2d5067d55fa869cad93",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/84b704f496fb053cecf347f808eebd7259105c72",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/f7836c9280e02c85dfd3a64897ad1d17e5e4f2d4",
+              "width": 64
+            }
+          ],
+          "name": "Shameboy",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 7,
+          "type": "album",
+          "uri": "spotify:album:3oUAwebm0OzB7PdohqosPE"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+              },
+              "href": "https://api.spotify.com/v1/artists/6c0mTNAxJxlp9HpKTUZwA8",
+              "id": "6c0mTNAxJxlp9HpKTUZwA8",
+              "name": "ALMA",
+              "type": "artist",
+              "uri": "spotify:artist:6c0mTNAxJxlp9HpKTUZwA8"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4PRrF6Jf0q8YbPLZNWQnAc"
+          },
+          "href": "https://api.spotify.com/v1/albums/4PRrF6Jf0q8YbPLZNWQnAc",
+          "id": "4PRrF6Jf0q8YbPLZNWQnAc",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/1bd1d91d3451747205d9402a20c5968ca5c9bdd2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/2771183b76981c024a877e915258e7915e69c3da",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/00f6a24d4b417c9fbc9891c5a50e5ae20f072002",
+              "width": 64
+            }
+          ],
+          "name": "Summer",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4PRrF6Jf0q8YbPLZNWQnAc"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+              },
+              "href": "https://api.spotify.com/v1/artists/6lB8vOoI4DRrrVxXwuV19c",
+              "id": "6lB8vOoI4DRrrVxXwuV19c",
+              "name": "Mike Perry",
+              "type": "artist",
+              "uri": "spotify:artist:6lB8vOoI4DRrrVxXwuV19c"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2GnMOT5CaZo1VelADDX6UB"
+          },
+          "href": "https://api.spotify.com/v1/albums/2GnMOT5CaZo1VelADDX6UB",
+          "id": "2GnMOT5CaZo1VelADDX6UB",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/d32865f2722ebd6513cb251bcb3044f3e806c68d",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/1a23265c0b88cbd9df076eccfa4d543cefcdcf3d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/85b1c16dd9ac55fd782c47edd5b660ad2dc19384",
+              "width": 64
+            }
+          ],
+          "name": "Way Too High",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2GnMOT5CaZo1VelADDX6UB"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8"
+              },
+              "href": "https://api.spotify.com/v1/artists/5fahUm8t5c0GIdeTq0ZaG8",
+              "id": "5fahUm8t5c0GIdeTq0ZaG8",
+              "name": "Otto Knows",
+              "type": "artist",
+              "uri": "spotify:artist:5fahUm8t5c0GIdeTq0ZaG8"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4c7jzo1RnPFJ92uNGATYi1"
+          },
+          "href": "https://api.spotify.com/v1/albums/4c7jzo1RnPFJ92uNGATYi1",
+          "id": "4c7jzo1RnPFJ92uNGATYi1",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/73dc4de91ab2cf76a8c2e7429a8fe2d1184e6ae3",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/5b49093ff506db8f28d1abe8a5d45c2938286196",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/334d2fba53f6f1f1868f65903aec612c218fbdf2",
+              "width": 64
+            }
+          ],
+          "name": "One In A Million",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4c7jzo1RnPFJ92uNGATYi1"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+              },
+              "href": "https://api.spotify.com/v1/artists/4MCBfE4596Uoi2O4DtmEMz",
+              "id": "4MCBfE4596Uoi2O4DtmEMz",
+              "name": "Juice WRLD",
+              "type": "artist",
+              "uri": "spotify:artist:4MCBfE4596Uoi2O4DtmEMz"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4wTEUOUuqBaKdExtQdYKfz"
+          },
+          "href": "https://api.spotify.com/v1/albums/4wTEUOUuqBaKdExtQdYKfz",
+          "id": "4wTEUOUuqBaKdExtQdYKfz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/3edba2ba0e95689e9eddb21ea2617cd35c0143a5",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/79fd97a433974cdffbde9504abd7742154340c8d",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/8da25f996eeafecf905c5a357df5eae0850123b9",
+              "width": 64
+            }
+          ],
+          "name": "Robbery",
+          "release_date": "2019-02-13",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:4wTEUOUuqBaKdExtQdYKfz"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+              },
+              "href": "https://api.spotify.com/v1/artists/6Ad91Jof8Niiw0lGLLi3NW",
+              "id": "6Ad91Jof8Niiw0lGLLi3NW",
+              "name": "YUNGBLUD",
+              "type": "artist",
+              "uri": "spotify:artist:6Ad91Jof8Niiw0lGLLi3NW"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+              },
+              "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+              "id": "26VFTg2z8YR0cCuwLzESi2",
+              "name": "Halsey",
+              "type": "artist",
+              "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/7jY0r3cjoRY6M3IqRb1m7H"
+          },
+          "href": "https://api.spotify.com/v1/albums/7jY0r3cjoRY6M3IqRb1m7H",
+          "id": "7jY0r3cjoRY6M3IqRb1m7H",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/89d724f25385dd1fb257e809d16934b15967757c",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/4e1269d81b22c5020d9a72f527e78034069257a3",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/86e94c6fd6eb301f470824ad6942d294fb6ec244",
+              "width": 64
+            }
+          ],
+          "name": "11 Minutes (with Halsey feat. Travis Barker)",
+          "release_date": "2019-02-14",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:7jY0r3cjoRY6M3IqRb1m7H"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+              },
+              "href": "https://api.spotify.com/v1/artists/0p4nmQO2msCgU4IF37Wi3j",
+              "id": "0p4nmQO2msCgU4IF37Wi3j",
+              "name": "Avril Lavigne",
+              "type": "artist",
+              "uri": "spotify:artist:0p4nmQO2msCgU4IF37Wi3j"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3FrkD0TTaXBuW19vuEhDGz"
+          },
+          "href": "https://api.spotify.com/v1/albums/3FrkD0TTaXBuW19vuEhDGz",
+          "id": "3FrkD0TTaXBuW19vuEhDGz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/a543f506e8f6055bcbc6903f7f9d9271328e14c7",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/20b9d239e8cdbe01f477404529aa96fca4e43a50",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d8ccf8e1c4604c89b2b3c53ad4af1c20d7e6a7d8",
+              "width": 64
+            }
+          ],
+          "name": "Head Above Water",
+          "release_date": "2019-02-15",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:3FrkD0TTaXBuW19vuEhDGz"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+              },
+              "href": "https://api.spotify.com/v1/artists/2eBqkaIfoNsOPCQCQEy5fD",
+              "id": "2eBqkaIfoNsOPCQCQEy5fD",
+              "name": "Benny Jamz",
+              "type": "artist",
+              "uri": "spotify:artist:2eBqkaIfoNsOPCQCQEy5fD"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/3usgUfWxJoTxAKNCfRulBz"
+          },
+          "href": "https://api.spotify.com/v1/albums/3usgUfWxJoTxAKNCfRulBz",
+          "id": "3usgUfWxJoTxAKNCfRulBz",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/e113d9f111496aab0a4e51c84b6931c72dce880e",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/358e5e84a9653e4d957548001c4d61d37047b0d0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/aa91fae39dd98bc15345dbe77c2b1f065684f72a",
+              "width": 64
+            }
+          ],
+          "name": "Savannah (feat. Sivas)",
+          "release_date": "2019-02-08",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:3usgUfWxJoTxAKNCfRulBz"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2GmsPqiejcB4bPdxJpkCh6"
+              },
+              "href": "https://api.spotify.com/v1/artists/2GmsPqiejcB4bPdxJpkCh6",
+              "id": "2GmsPqiejcB4bPdxJpkCh6",
+              "name": "Citybois",
+              "type": "artist",
+              "uri": "spotify:artist:2GmsPqiejcB4bPdxJpkCh6"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1sNGRGB04P5x87An6LFdUq"
+          },
+          "href": "https://api.spotify.com/v1/albums/1sNGRGB04P5x87An6LFdUq",
+          "id": "1sNGRGB04P5x87An6LFdUq",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/151ca0246c910233ae7bca039b3e2252f084566f",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/12c657189468ec229ee90c646ec15e01bfee8f8a",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/07887c7b564a1479cb850444b73d33137617ec6c",
+              "width": 64
+            }
+          ],
+          "name": "Sig Mig",
+          "release_date": "2019-02-08",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:1sNGRGB04P5x87An6LFdUq"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+              },
+              "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+              "id": "6LuN9FCkKOj5PcnpouEgny",
+              "name": "Khalid",
+              "type": "artist",
+              "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+              },
+              "href": "https://api.spotify.com/v1/artists/6nS5roXSAGhTGr34W6n7Et",
+              "id": "6nS5roXSAGhTGr34W6n7Et",
+              "name": "Disclosure",
+              "type": "artist",
+              "uri": "spotify:artist:6nS5roXSAGhTGr34W6n7Et"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/58kvvQvx6OtLqEDhqYSzyM"
+          },
+          "href": "https://api.spotify.com/v1/albums/58kvvQvx6OtLqEDhqYSzyM",
+          "id": "58kvvQvx6OtLqEDhqYSzyM",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/950b1a8984ea094692c0436f0f1657199cea0718",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/cb4d6eb18839203d660de1f947b25641161df9ce",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ee153e8c01accc56f723b88b39d86554eb49bb2e",
+              "width": 64
+            }
+          ],
+          "name": "Talk",
+          "release_date": "2019-02-07",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:58kvvQvx6OtLqEDhqYSzyM"
+        },
+        {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+              },
+              "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+              "id": "66CXWjxzNUsdJxJ2JdwvnR",
+              "name": "Ariana Grande",
+              "type": "artist",
+              "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+          },
+          "href": "https://api.spotify.com/v1/albums/2fYhqwDWXjbpjaIJPEfKFw",
+          "id": "2fYhqwDWXjbpjaIJPEfKFw",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/8eaa3900ecd033ea52c72167f2a392b356b2b0a2",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/d8443d0acece757484642e9a54e0f4367ae7cad0",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ba570d71f798865789c65f3654d61bd54f7378e0",
+              "width": 64
+            }
+          ],
+          "name": "thank u, next",
+          "release_date": "2019-02-08",
+          "release_date_precision": "day",
+          "total_tracks": 12,
+          "type": "album",
+          "uri": "spotify:album:2fYhqwDWXjbpjaIJPEfKFw"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0zCyxUOno7Lw6vXVUjyo5C"
+              },
+              "href": "https://api.spotify.com/v1/artists/0zCyxUOno7Lw6vXVUjyo5C",
+              "id": "0zCyxUOno7Lw6vXVUjyo5C",
+              "name": "ATkel",
+              "type": "artist",
+              "uri": "spotify:artist:0zCyxUOno7Lw6vXVUjyo5C"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/2UzkHUsvxBjPXKEo6QKKgN"
+          },
+          "href": "https://api.spotify.com/v1/albums/2UzkHUsvxBjPXKEo6QKKgN",
+          "id": "2UzkHUsvxBjPXKEo6QKKgN",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/63e65b4e3e8132da58ed6c0788642cb136014aa6",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/d4dc3ba781fb40bbc675b9359217259e4ffeaf2b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/d199419370d589b838ade1ac1210f7c7da4e73da",
+              "width": 64
+            }
+          ],
+          "name": "Kender Det (feat. AWADA)",
+          "release_date": "2019-02-06",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:2UzkHUsvxBjPXKEo6QKKgN"
+        },
+        {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv"
+              },
+              "href": "https://api.spotify.com/v1/artists/4Bu9ocyPQWQRyk3kXDSNlv",
+              "id": "4Bu9ocyPQWQRyk3kXDSNlv",
+              "name": "Carmon",
+              "type": "artist",
+              "uri": "spotify:artist:4Bu9ocyPQWQRyk3kXDSNlv"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/58oQ5TV59wB2dnaiz8Ur6F"
+          },
+          "href": "https://api.spotify.com/v1/albums/58oQ5TV59wB2dnaiz8Ur6F",
+          "id": "58oQ5TV59wB2dnaiz8Ur6F",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/b997c3a66383fa639f9cf723e6d3e0c3c49ae626",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/25b4438954274630595f33f3e12533b35445ce70",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/cea6af26d0904f11fec5a8a1ef3e69a25dfb99b5",
+              "width": 64
+            }
+          ],
+          "name": "Bando",
+          "release_date": "2019-02-08",
+          "release_date_precision": "day",
+          "total_tracks": 1,
+          "type": "album",
+          "uri": "spotify:album:58oQ5TV59wB2dnaiz8Ur6F"
+        }
+      ]
+}

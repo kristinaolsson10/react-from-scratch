@@ -1,5 +1,5 @@
 import React from "react";
-import Animal from "./components/Animal";
+import AlbumList from "./components/AlbumList";
 import Header from "./components/Header";
 
 class App extends React.Component {
@@ -8,7 +8,7 @@ class App extends React.Component {
             <div>
                 <Header />
 
-                <Animal type="Parrot" name="Harry" />
+                <AlbumList />
             </div>
         )
     }
