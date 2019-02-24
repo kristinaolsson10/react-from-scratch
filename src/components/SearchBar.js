@@ -1,5 +1,5 @@
 import React from 'react'
-import { searchArtist } from '../utils/search-utils';
+import { searchAlbums } from '../utils/search-utils';
 
 class SearchBar extends React.Component {
   render() {
@@ -8,9 +8,8 @@ class SearchBar extends React.Component {
         style={{ width: 300 }}
         onKeyUp={(e) => {
           let results = this.props.albumData.filter(function(entry) {
-            return searchArtist(entry, e);
+            return searchAlbums(entry, e);
           });
-
           this.props.onFilter(results)
         }}
       />
