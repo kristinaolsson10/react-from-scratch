@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./App"
 
-const helloElement = React.createElement("h1", {className: "hello-react"}, "Hello, my friend! I am React!");
-//const helloElement = React.createElement("h1", {className: "hello-react", children: [<a href="http://www.google.com">Hello my child!</a>]});
+//const helloElement = React.createElement("h1", {className: "hello-react"}, "Hello, my friend! I am React!");
+const helloElement = React.createElement("h1", {className: "hello-react", children: [<div>first child</div>, <div>second child</div>]});
 //console.log(helloElement);
 ReactDOM.render(helloElement, document.getElementById("react-root"));
 
