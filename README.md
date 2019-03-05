@@ -16,12 +16,12 @@ Npm is distributed with Node.js
 
 ## Getting the App
 In your terminal, navigate to/create a directory where you want to download the source code.
-- Run `git clone https://github.com/kristinaolsson10/react-from-scratch.git`
+- Run `git clone https://github.com/kristinaolsson10/react-playground.git`
 
 
 In your terminal, navigate to the project directory. Once there you can run:
 
-`npm start`
+`npm install` followed by `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
